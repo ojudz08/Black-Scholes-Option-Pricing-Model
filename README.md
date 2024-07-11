@@ -1,2 +1,5 @@
-# Black-Scholes_Option_Pricing_Model
-Black Scholes Pricing Model python script
+# Black Scholes Pricing Model. Calculates the following:
+  a. Call and Put Option price (dividend paying and non-dividend paying equity)
+  b. Delta
+  c. Gamma
+  d. Put - Call Parity
